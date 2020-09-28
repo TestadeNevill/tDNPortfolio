@@ -1,3 +1,17 @@
 body {
   /* background-image: url("imgs/DOWCityInspo1.jpg"); */
 }
+.selfPortrait {
+  height: 50%;
+  text-align: center;
+}
+/* .carousel-item {
+  height: 20%;
+}
+.carousel-inner {
+  width: 100%;
+  height: 250px;
+} */
+/* #carouselExampleIndicators {
+  height: 25% !important;
+} */
